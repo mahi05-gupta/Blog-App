@@ -189,33 +189,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push branch
-
-```bash
-git push origin feature-name
-```
-
-5. Create a Pull Request
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
